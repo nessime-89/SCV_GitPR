@@ -1,4 +1,5 @@
 [Alt text](kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546c0b1311.5417567715351368760454.jpg)
+
 # Работа с Git и GitHub
 ## 1. Проверка наличия установленного Git
 Выполнить в терминале команду ``git version``.
